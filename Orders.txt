@@ -1,0 +1,10 @@
+131:[1 js,  2 Java how To Program]:sm:Accepted:510.0:2019-02-09
+11:[1 js,   2 Java how To Program]:nem:Rejected:510.0:2019-02-09
+41:[2 js,  4 Java how To Program]:me:Accepted:510.0:2019-02-09
+71:[4 js,  1 Java how To Program]:sm:Rejected:510.0:2019-02-09
+7:[2 dssnf,  3 Test Image,  1 Java how To Program]:Abdo:Accepted:797.5:2019-02-10
+125:[1 Java how To Program, 2 js]:sm:Rejected:262.5:2019-02-12
+86:[2 BBBB,   4 dssnf,   2 bhbhj]:Abdo:Rejected:665.5:2019-02-13
+87:[5 New Product,  7 Perfume,  5 Another One,  1 Shoe]:Abdo:Accepted:1418.0:2019-02-20
+151:[3 New Product,  5 Perfume,  2 Another One,  3 Another One]:Madoma:Rejected:1000.0:2019-03-02
+141:[1 Smart TV,  5 The Book,  5 Black Shoes]:Madoma:Accepted:954.99:2019-03-02

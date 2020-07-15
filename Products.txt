@@ -1,0 +1,14 @@
+1,Tedy Bear,5.0,New Product,2,GAMES_TOYS,5,\ProductImages\Products\Default Image.png,Fragille
+2,The Case For Miracles,67.0,,98,BOOKS,4,\ProductImages\Products\images.jpg,Non-Fragile
+3,Black Leather Shoes,5.0,High Quality Item,1,SPORTS_EQUIPMENT,3,\ProductImages\Products\2.jpg,Non-Fragile
+4,Java how To Program,250.0,Very Nice Book,5,ELECTRONICS,4,\ProductImages\Products\Default Image.png,Fragille
+5,Starting Out with Java,67.0,,74,BOOKS,4,\ProductImages\Products\StartingOutJava.jpg,Non-Fragile
+6,Eat That Frog,66.0,,37,BOOKS,5,\ProductImages\Products\GUEST_38a84379-ffc2-4df9-85d0-d73fa59463fa.jpg,Non-Fragile
+7,iPhone,1250.0,,87,ELECTRONICS,4,\ProductImages\Products\Default Image.png,Fragille
+8,LG TV,87.0,good,96,ELECTRONICS,4,\ProductImages\Products\Default Image.png,Fragille
+9,Shoe,75.0,,15,SPORTS_EQUIPMENT,5,\ProductImages\Products\watch-product-lockup-callout.png,Non-Fragile10,ToTesting,890.0,Elegant Watch,99,ELECTRONICS,4,C:\Users\Abdelrahman Badran\Documents\GitHub\OODJ\21-1 OrderSystem V1.1\src\ProductImages\Products\watch-product-lockup-callout.png,Non-Fragile
+10,The Book,75.0,New,12,BOOKS,5,\ProductImages\Products\Counselling-Insights-Softcover-final.png,Non-Fragile
+11,Black Shoes,55.0,,28,SPORTS_EQUIPMENT,5,\ProductImages\Products\2.jpg,Non-Fragile
+12,Adidas Perfume,150.0,,200,SPORTS_EQUIPMENT,5,\ProductImages\Products\One-Eye-Vision-Professional-Editorial-Sports-Food-Product-Photography-commercial-branding-photos-Ahmedabad-Gujarat-India-5.jpg,Fragille
+14,Smart TV,299.99,Comes with HDMI cable and thunderbolt,6,ELECTRONICS,5,\ProductImages\Products\43PUS6503_12-IMS-en_GB.jpg,Fragille
+15,Samsung S10,5399.0,Realesed in February,25,ELECTRONICS,5,\ProductImages\Products\maxresdefault.jpg,Fragille
